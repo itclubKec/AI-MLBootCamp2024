@@ -8,8 +8,6 @@ Welcome to the AI/ML Bootcamp 2024 Projects Repository! This repository is dedic
 - [Project Structure](#project-structure)
 - [Rules and Guidelines](#rules-and-guidelines)
   - [Commit Messages](#commit-messages)
-  - [Branching Strategy](#branching-strategy)
-  - [Pull Requests](#pull-requests)
 - [Getting Started](#getting-started)
   - [Creating a New Project Repository](#creating-a-new-project-repository)
   - [Working on Your Project](#working-on-your-project)
@@ -61,13 +59,14 @@ Each participant should create their own repository for their project. Follow th
 1. **Create Repository**: Create a new repository on GitHub.
 2. **Initialize Repository**: Initialize the repository with a `README.md` and any necessary files.
 
+## Getting Started
+
 ### Working on Your Project
 
 While working on your project, follow these guidelines to ensure efficient commits and clear progress tracking:
 
 1. **Frequent Commits**: Make frequent commits to document progress.
 2. **Descriptive Messages**: Use descriptive commit messages as outlined in the [Commit Messages](#commit-messages) section.
-3. **Feature Branches**: Create and use feature branches for new features or fixes.
 
 ### Linking Subtrees - for Organizers Only
 
