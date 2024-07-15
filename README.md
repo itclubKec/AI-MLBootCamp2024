@@ -53,20 +53,6 @@ Commit messages should be in the format of <type>: <description> where type is o
     chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
 NOTE: Please try to commit each features in your project for better evaluation. 
-### Branching Strategy
-If your project requires branching for you to manage and maintain it better, here are the guidelines for it.
-
-1. **Main Branch**: The `main` branch will contain the stable version of the repository.
-2. **Feature Branches**: Create feature branches for new features or fixes. Use the following naming convention:
-   ```
-   feature/[FeatureName]
-   ```
-
-   Example:
-   ```
-   feature/UserAuthentication
-   ```
-## Getting Started
 
 ### Creating a New Project Repository
 
@@ -83,7 +69,7 @@ While working on your project, follow these guidelines to ensure efficient commi
 2. **Descriptive Messages**: Use descriptive commit messages as outlined in the [Commit Messages](#commit-messages) section.
 3. **Feature Branches**: Create and use feature branches for new features or fixes.
 
-### Linking Subtrees
+### Linking Subtrees - for Organizers Only
 
 The IT Club Bootcamp organizers will manage linking the subtrees to your project repositories. To link a subtree, the organizers will follow these steps:
 
