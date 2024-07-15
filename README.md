@@ -16,7 +16,7 @@ Welcome to the AI/ML Bootcamp 2024 Projects Repository! This repository is dedic
 
 ## Overview
 
-This repository is designed to track the progress of various projects developed during the IT Club Bootcamp 2024. Each project is stored as a subtree, which enables participants to work independently while maintaining a clear structure within the main repository.
+This repository is designed to track the progress of various projects developed during the AI/ML Bootcamp 2024. Each project is stored as a subtree, which enables participants to work independently while maintaining a clear structure within the main repository.
 
 ## Project Structure
 
@@ -40,7 +40,7 @@ The repository is structured as follows:
 ### Commit Messages
 
 Commit messages are essential for tracking progress and should follow these guidelines:
-Commit messages should be in the format of <type>: <description> where type is one of the following:
+Commit messages should be in the format of `<type>: <description>` where type is one of the following:
 
     feat: A new feature
     fix: A bug fix
@@ -83,8 +83,8 @@ The IT Club Bootcamp organizers will manage linking the subtrees to your project
 
 ## Contact
 
-For any questions or issues, please contact the IT Club Bootcamp 2024 organizers at https://itclub-web.vercel.app.
+For any questions or issues, please contact the AI/ML Bootcamp 2024 organizers at https://itclub-web.vercel.app.
 
 ---
 
-Thank you for participating in the IT Club Bootcamp 2024! Let's code, collaborate, and create amazing projects together!
+Thank you for participating in the AI/ML Bootcamp 2024! Let's code, collaborate, and create amazing projects together!
