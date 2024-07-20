@@ -1,0 +1,3 @@
+[submodule "diabetes-predictor-py-ml"]
+	path = diabetes-predictor-py-ml
+	url = https://github.com/SammyRJ/diabetes-predictor-py-ml
