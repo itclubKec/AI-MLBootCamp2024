@@ -1,3 +1,6 @@
 [submodule "diabetes-predictor-py-ml"]
 	path = diabetes-predictor-py-ml
 	url = https://github.com/SammyRJ/diabetes-predictor-py-ml
+[submodule "Water-Quality-Prediction-for-Potability"]
+	path = Water-Quality-Prediction-for-Potability
+	url = https://github.com/trish-03/Water-Quality-Prediction-for-Potability
