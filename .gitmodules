@@ -61,3 +61,6 @@
 [submodule "nepse-ai-assistant"]
 	path = nepse-ai-assistant
 	url = https://github.com/nischalpandey/nepse-ai-assistant/
+[submodule "ANAEMIA_PREDICTION"]
+	path = ANAEMIA_PREDICTION
+	url = https://github.com/shksajag/ANAEMIA_PREDICTION
