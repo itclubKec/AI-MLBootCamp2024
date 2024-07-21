@@ -67,3 +67,6 @@
 [submodule "Earthquake-Prediction"]
 	path = Earthquake-Prediction
 	url = https://github.com/peachbrains/Earthquake-Prediction
+[submodule "bookrecommendsystem"]
+	path = bookrecommendsystem
+	url = https://github.com/nihal8866/bookrecommendsystem
