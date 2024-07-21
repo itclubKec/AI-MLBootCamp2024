@@ -7,3 +7,6 @@
 [submodule "Lung-Cancer-Prediction-AI"]
 	path = Lung-Cancer-Prediction-AI
 	url = https://github.com/Pramit316/Lung-Cancer-Prediction-AI.git
+[submodule "Breast_Cancer_Detection"]
+	path = Breast_Cancer_Detection
+	url = https://github.com/aashika262/Breast_Cancer_Detection
