@@ -13,3 +13,6 @@
 [submodule "Red-Wine-Alcohol-Prediction-using-ML"]
 	path = Red-Wine-Alcohol-Prediction-using-ML
 	url = https://github.com/lordoftheearrings/Red-Wine-Alcohol-Prediction-using-ML.git
+[submodule "Alzheimers-prediction-using-machine-learning"]
+	path = Alzheimers-prediction-using-machine-learning
+	url = https://github.com/Szhoosh/Alzheimers-prediction-using-machine-learning
