@@ -85,3 +85,6 @@
 [submodule "Food_Adulteration_Health_Risk_using_ML"]
 	path = Food_Adulteration_Health_Risk_using_ML
 	url = https://github.com/Nehu2021/Food_Adulteration_Health_Risk_using_ML.git
+[submodule "Flood_Prediction_System"]
+	path = Flood_Prediction_System
+	url = https://github.com/Prasiddha08/Flood_Prediction_System.git
