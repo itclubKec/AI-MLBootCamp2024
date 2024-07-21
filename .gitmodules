@@ -16,3 +16,6 @@
 [submodule "Alzheimers-prediction-using-machine-learning"]
 	path = Alzheimers-prediction-using-machine-learning
 	url = https://github.com/Szhoosh/Alzheimers-prediction-using-machine-learning
+[submodule "EmployeeAttritionPrediction"]
+	path = EmployeeAttritionPrediction
+	url = https://github.com/neharikastha/EmployeeAttritionPrediction
