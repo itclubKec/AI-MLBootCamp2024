@@ -64,3 +64,6 @@
 [submodule "ANAEMIA_PREDICTION"]
 	path = ANAEMIA_PREDICTION
 	url = https://github.com/shksajag/ANAEMIA_PREDICTION
+[submodule "Earthquake-Prediction"]
+	path = Earthquake-Prediction
+	url = https://github.com/peachbrains/Earthquake-Prediction
