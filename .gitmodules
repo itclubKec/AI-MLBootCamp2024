@@ -19,3 +19,6 @@
 [submodule "EmployeeAttritionPrediction"]
 	path = EmployeeAttritionPrediction
 	url = https://github.com/neharikastha/EmployeeAttritionPrediction
+[submodule "Flight-Price-Prediction"]
+	path = Flight-Price-Prediction
+	url = https://github.com/shr-gitt/Flight-Price-Prediction.git
