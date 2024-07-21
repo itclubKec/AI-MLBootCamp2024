@@ -46,3 +46,6 @@
 [submodule "K-drama-Hit-Flop-Prediction"]
 	path = K-drama-Hit-Flop-Prediction
 	url = https://github.com/shrijal04/K-drama-Hit-Flop-Prediction
+[submodule "Parkinsons_dection"]
+	path = Parkinsons_dection
+	url = https://github.com/MAVUHS2003/Parkinsons_dection
