@@ -49,3 +49,6 @@
 [submodule "Parkinsons_dection"]
 	path = Parkinsons_dection
 	url = https://github.com/MAVUHS2003/Parkinsons_dection
+[submodule "Employee_Turnover_Prediction"]
+	path = Employee_Turnover_Prediction
+	url = https://github.com/rnistha/Employee_Turnover_Prediction
