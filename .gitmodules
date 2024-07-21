@@ -82,3 +82,6 @@
 [submodule "Income-predictor"]
 	path = Income-predictor
 	url = https://github.com/nolll1/Income-predictor
+[submodule "Food_Adulteration_Health_Risk_using_ML"]
+	path = Food_Adulteration_Health_Risk_using_ML
+	url = https://github.com/Nehu2021/Food_Adulteration_Health_Risk_using_ML.git
