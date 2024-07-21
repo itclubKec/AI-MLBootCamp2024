@@ -25,3 +25,6 @@
 [submodule "medical_cost_prediction_py-ml"]
 	path = medical_cost_prediction_py-ml
 	url = https://github.com/su-ip/medical_cost_prediction_py-ml
+[submodule "Student_Stress_Prediction_Using_AI-ML"]
+	path = Student_Stress_Prediction_Using_AI-ML
+	url = https://github.com/SummitSthapit/Student_Stress_Prediction_Using_AI-ML
