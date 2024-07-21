@@ -73,3 +73,6 @@
 [submodule "Box-Office-Revenue-and-IMDB-Score-Prediction"]
 	path = Box-Office-Revenue-and-IMDB-Score-Prediction
 	url = https://github.com/Sugam721/Box-Office-Revenue-and-IMDB-Score-Prediction
+[submodule "Project-Heart-Rate"]
+	path = Project-Heart-Rate
+	url = https://github.com/RachanaAd/Project-Heart-Rate
