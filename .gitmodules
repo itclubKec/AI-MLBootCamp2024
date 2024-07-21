@@ -40,3 +40,6 @@
 [submodule "Prediction-of-Health-Risks-Associated-with-Mobile-Phone-Usage-Among-Students"]
 	path = Prediction-of-Health-Risks-Associated-with-Mobile-Phone-Usage-Among-Students
 	url = https://github.com/ShubhaAc/Prediction-of-Health-Risks-Associated-with-Mobile-Phone-Usage-Among-Students
+[submodule "Tourist_Revisitation_Prediction"]
+	path = Tourist_Revisitation_Prediction
+	url = https://github.com/yyohyy/Tourist_Revisitation_Prediction
