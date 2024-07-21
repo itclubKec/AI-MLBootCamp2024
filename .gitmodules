@@ -31,3 +31,6 @@
 [submodule "DDOS-Attack-Prediction-Model-"]
 	path = DDOS-Attack-Prediction-Model-
 	url = https://github.com/Prasun-Shiwakoti/DDOS-Attack-Prediction-Model-
+[submodule "House-Price-Prediction"]
+	path = House-Price-Prediction
+	url = https://github.com/Ma-Ane/House-Price-Prediction
