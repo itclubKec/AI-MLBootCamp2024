@@ -22,3 +22,6 @@
 [submodule "Flight-Price-Prediction"]
 	path = Flight-Price-Prediction
 	url = https://github.com/shr-gitt/Flight-Price-Prediction.git
+[submodule "medical_cost_prediction_py-ml"]
+	path = medical_cost_prediction_py-ml
+	url = https://github.com/su-ip/medical_cost_prediction_py-ml
