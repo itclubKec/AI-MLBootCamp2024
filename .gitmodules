@@ -28,3 +28,6 @@
 [submodule "Student_Stress_Prediction_Using_AI-ML"]
 	path = Student_Stress_Prediction_Using_AI-ML
 	url = https://github.com/SummitSthapit/Student_Stress_Prediction_Using_AI-ML
+[submodule "DDOS-Attack-Prediction-Model-"]
+	path = DDOS-Attack-Prediction-Model-
+	url = https://github.com/Prasun-Shiwakoti/DDOS-Attack-Prediction-Model-
