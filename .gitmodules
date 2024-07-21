@@ -4,3 +4,6 @@
 [submodule "Water-Quality-Prediction-for-Potability"]
 	path = Water-Quality-Prediction-for-Potability
 	url = https://github.com/trish-03/Water-Quality-Prediction-for-Potability
+[submodule "Lung-Cancer-Prediction-AI"]
+	path = Lung-Cancer-Prediction-AI
+	url = https://github.com/Pramit316/Lung-Cancer-Prediction-AI.git
