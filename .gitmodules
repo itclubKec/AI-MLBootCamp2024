@@ -58,3 +58,6 @@
 [submodule "Dress-Rental-Price-Brand-Colour-Analysis"]
 	path = Dress-Rental-Price-Brand-Colour-Analysis
 	url = https://github.com/NilishaMaharjan/Dress-Rental-Price-Brand-Colour-Analysis
+[submodule "nepse-ai-assistant"]
+	path = nepse-ai-assistant
+	url = https://github.com/nischalpandey/nepse-ai-assistant/
