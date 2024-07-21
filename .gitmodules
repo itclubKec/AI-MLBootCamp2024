@@ -34,3 +34,6 @@
 [submodule "House-Price-Prediction"]
 	path = House-Price-Prediction
 	url = https://github.com/Ma-Ane/House-Price-Prediction
+[submodule "Loan-Default-Prediction-"]
+	path = Loan-Default-Prediction-
+	url = https://github.com/SanjeetaAcharya/Loan-Default-Prediction-
