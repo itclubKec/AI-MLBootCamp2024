@@ -88,3 +88,6 @@
 [submodule "Flood_Prediction_System"]
 	path = Flood_Prediction_System
 	url = https://github.com/Prasiddha08/Flood_Prediction_System.git
+[submodule "CO2-Emission-Prediction"]
+	path = CO2-Emission-Prediction
+	url = https://github.com/RUShreezy/CO2-Emission-Prediction.git
