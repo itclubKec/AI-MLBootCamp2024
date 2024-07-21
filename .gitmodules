@@ -43,3 +43,6 @@
 [submodule "Tourist_Revisitation_Prediction"]
 	path = Tourist_Revisitation_Prediction
 	url = https://github.com/yyohyy/Tourist_Revisitation_Prediction
+[submodule "K-drama-Hit-Flop-Prediction"]
+	path = K-drama-Hit-Flop-Prediction
+	url = https://github.com/shrijal04/K-drama-Hit-Flop-Prediction
