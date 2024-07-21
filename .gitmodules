@@ -79,3 +79,6 @@
 [submodule "Breast-cancer-stage-prediction"]
 	path = Breast-cancer-stage-prediction
 	url = https://github.com/anizh88/Breast-cancer-stage-prediction
+[submodule "Income-predictor"]
+	path = Income-predictor
+	url = https://github.com/nolll1/Income-predictor
