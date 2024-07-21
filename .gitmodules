@@ -76,3 +76,6 @@
 [submodule "Project-Heart-Rate"]
 	path = Project-Heart-Rate
 	url = https://github.com/RachanaAd/Project-Heart-Rate
+[submodule "Breast-cancer-stage-prediction"]
+	path = Breast-cancer-stage-prediction
+	url = https://github.com/anizh88/Breast-cancer-stage-prediction
