@@ -10,3 +10,6 @@
 [submodule "Breast_Cancer_Detection"]
 	path = Breast_Cancer_Detection
 	url = https://github.com/aashika262/Breast_Cancer_Detection
+[submodule "Red-Wine-Alcohol-Prediction-using-ML"]
+	path = Red-Wine-Alcohol-Prediction-using-ML
+	url = https://github.com/lordoftheearrings/Red-Wine-Alcohol-Prediction-using-ML.git
