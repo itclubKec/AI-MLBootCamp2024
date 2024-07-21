@@ -55,3 +55,6 @@
 [submodule "Employee-Salary-Prediction"]
 	path = Employee-Salary-Prediction
 	url = https://github.com/E980Jessi/Employee-Salary-Prediction
+[submodule "Dress-Rental-Price-Brand-Colour-Analysis"]
+	path = Dress-Rental-Price-Brand-Colour-Analysis
+	url = https://github.com/NilishaMaharjan/Dress-Rental-Price-Brand-Colour-Analysis
